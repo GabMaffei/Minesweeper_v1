@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1595802690 source:d:\documentos\univali material didático\algoritmos e programação\04-07 trabalho 3\campo_minado\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<locale.h>
+
